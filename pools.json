@@ -1,0 +1,37 @@
+[
+    {
+        "name": "cTHPool.org",
+        "domain": "cthpool.org",
+        "stratum": "cthpool.org:8008",
+        "ssl": true,
+        "api": "cthpool.org"
+    },
+    {
+        "name": "cheapETH Mining Pool (Difficult)",
+        "domain": "cthpool.com",
+        "stratum": "cthpool.com:8008",
+        "ssl": false,
+        "api": "cthpool.com"
+    },
+    {
+        "name": "cheapETH Mining Pool",
+        "domain": "difficult.cthpool.com",
+        "stratum": "difficult.cthpool.com",
+        "ssl": false,
+        "api": "difficult.cthpool.com"
+    },
+    {
+        "name": "cheapETH Mining Pool",
+        "domain": "cethpool.com",
+        "stratum": "cethpool.com:8008",
+        "ssl": false,
+        "api": "cethpool.com"
+    },
+    {
+        "name": "pool.ceth.fun miners association",
+        "domain": "pool.ceth.fun",
+        "stratum": "pool.ceth.fun:8008",
+        "ssl": true,
+        "api": "pool.ceth.fun"
+    }
+]
